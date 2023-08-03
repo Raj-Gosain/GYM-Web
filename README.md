@@ -1,4 +1,4 @@
-# [Gym Website Landing Page]
+# [Gym Website]
 
 This is a landing page for a gym website. It showcases various sections such as the menu, header, features, explore, trainers, discount, and footer. The page is designed to promote the gym's services and attract potential customers.
 
